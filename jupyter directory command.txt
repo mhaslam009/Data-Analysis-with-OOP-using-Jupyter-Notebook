@@ -1,0 +1,4 @@
+jupyter notebook --notebook-dir="E:\CAREER_DATA\jupyter_files"
+
+
+C:\Users\HR Computers\AppData\Roaming\Python\Python311\site-packages

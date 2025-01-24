@@ -1,0 +1,17 @@
+/* Example custom CSS for inverting colors */
+/* Example custom CSS for inverting colors */
+body {
+  background-color: #1a1a1a; /* Dark background color */
+  color: #ffffff; /* Text color */
+}
+
+/* Customize other elements as needed */
+.jp-InputArea-editor {
+  background-color: #1a1a1a;
+  color: #ffffff;
+}
+
+.jp-OutputArea-output {
+  background-color: #1a1a1a;
+  color: #ffffff;
+}
